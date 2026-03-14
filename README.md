@@ -167,9 +167,6 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
 <p align="center">
   <b>Thanks for visiting my profile! Have a great day! 😊</b>
