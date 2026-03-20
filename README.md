@@ -104,19 +104,6 @@
 ---
 
 
-
-### 🛡️ **Spam Shield AI**
-An intelligent spam detection system powered by machine learning to identify and filter spam messages.
-- **Technology:** Python, Machine Learning, NLP
-- **Features:** Message classification, spam detection, high accuracy
-- **Highlights:** Trained on real-world datasets, efficient algorithms
-- 🔗 [View Repository](https://github.com/DishaAgarwalla/SpamShield_AI)
-
-### 🚀 **More Projects Coming Soon!**
-I'm constantly working on new projects to enhance my skills. Stay tuned!
-
----
-
 ## 💡 Development Philosophy
 
 > *"First, solve the problem. Then, write the code."*
