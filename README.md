@@ -103,14 +103,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🛒 **E-Commerce App**
-A complete full-stack e-commerce platform with user authentication, product management, and payment integration.
-- **Frontend:** React, Redux, Tailwind CSS
-- **Backend:** Spring Boot, JWT
-- **Database:** MongoDB
-- 🔗 [View Repository](https://github.com/dishaagarwalla/Ecommerce_App)
 
 ### 🛡️ **Spam Shield AI**
 An intelligent spam detection system powered by machine learning to identify and filter spam messages.
