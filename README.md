@@ -81,7 +81,6 @@
 - Designing RESTful APIs using Spring Boot
 - Implementing Authentication & Authorization
 - Working with database-driven applications
-- Practicing clean code and modular architecture
 - Building Python scripts for automation and data processing
 - **Creating AI-powered applications** for real-world problems
 
