@@ -1,10 +1,27 @@
 <h1 align="center">✨ Disha Agarwalla ✨</h1>
-<h3 align="center">Full-Stack Developer | Java • JavaScript • Python • Spring Boot • React</h3>
-
+<h3 align="center">Full-Stack Developer | AI & MERN Stack Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F71999&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" />
 </p>
+<p align="center">
 
+  <a href="https://www.linkedin.com/in/disha-agarwalla-10884b31b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+
+  <a href="https://github.com/DishaAgarwalla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+
+  <a href="mailto:dishaagarwalla260@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+
+  <a href="https://dishastudio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Disha_Studio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+
+</p>
 ---
 
 ## 🚀 About Me
@@ -111,22 +128,6 @@
 - Follow best practices and design patterns
 - Continuous learning and skill improvement
 - Build scalable and efficient applications
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/disha-agarwalla-10884b31b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/dishaagarwalla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="mailto:agarwalladisha02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-</p>
 
 ---
 
