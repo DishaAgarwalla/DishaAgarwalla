@@ -22,7 +22,7 @@
   </a>
 
 </p>
----
+
 
 ## 🚀 About Me
 - 🔭 Currently working on: Building my development skills and creating meaningful projects  
