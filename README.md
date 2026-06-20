@@ -1,5 +1,5 @@
 <h1 align="center">✨ Disha Agarwalla ✨</h1>  
-<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast</h3> 
+<h3 align="center">Full-Stack Developer | MERN Stack & Backend Developer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F71999&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" />
 </p>
