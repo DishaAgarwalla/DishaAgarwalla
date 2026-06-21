@@ -80,53 +80,6 @@
 
 ---
 
-## 🎯 Learning & Development Roadmap
-
-### ✅ Completed Foundations
-- **Core Java and Object-Oriented Programming (OOP)**
-- **Python Basics** - Scripting and Fundamentals
-- **Java Web Development:** JSP, Servlets & JDBC
-- **Database Design:** MySQL with normalized schema design
-- **Frontend Development:** HTML5, CSS3, JavaScript
-- **Version Control:** Git & GitHub for collaboration
-- **Basic Web Application Architecture**
-
-### 🔄 Currently Expanding Expertise
-- **Spring Boot** for modern backend development
-- **React.js** with Hooks & Context API
-- **Angular Framework** for scalable frontend applications
-- **Hibernate ORM** for database persistence
-- **Docker Containerization** for environment consistency
-- **Data Structures & Algorithms** for problem solving
-- **REST API Development** and API integration
-- **Advanced Python** - Exploring frameworks and applications
-- **Machine Learning Basics** - Building intelligent applications
-
-### 🛠️ Building Through Projects
-- Developing Full-Stack Web Applications
-- Designing RESTful APIs using Spring Boot
-- Implementing Authentication & Authorization
-- Working with database-driven applications
-- Building Python scripts for automation and data processing
-- **Creating AI-powered applications** for real-world problems
-
-### ☁️ DevOps & Cloud Journey
-- Learning Docker for containerized applications
-- Exploring AWS Cloud Services
-- Understanding CI/CD pipelines
-- Learning deployment and server management
-
-### 🚀 Future Learning Goals
-- Master Spring Cloud & Microservices Architecture
-- Explore GraphQL APIs
-- Build scalable distributed systems
-- Contribute to Open Source Projects
-- Develop Cross-Platform Mobile Applications
-- Strengthen System Design skills
-- Explore Python Frameworks (Django/Flask)
-- **Deepen expertise in Machine Learning & AI applications**
-
----
 
 ## 🌱 My Development Journey
 
