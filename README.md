@@ -1,5 +1,5 @@
 <h1 align="center">✨ Disha Agarwalla ✨</h1>  
-<h3 align="center">Full-Stack Developer | MERN Stack & Backend Developer</h3>
+<h3 align="center">Full-Stack Developer | AI & Backend Developer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F71999&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" />
 </p>
@@ -27,8 +27,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on: Building my development skills and creating meaningful projects  
 - 🌱 Currently learning: Full-stack development and modern web technologies  
-- 👯 Looking to collaborate on: Open-source projects and innovative web applications  
-- 💬 Ask me about: Web development, programming concepts, and tech learning paths  
+- 👯 Looking to collaborate on: Open-source projects and innovative web applications   
 - 📫 How to reach me: **agarwalladisha02@gmail.com**  
 - ⚡ Fun fact: I love continuous learning and exploring new technologies!  
 
