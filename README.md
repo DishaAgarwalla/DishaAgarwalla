@@ -28,7 +28,6 @@
 - 🔭 Currently working on: Building my development skills and creating meaningful projects  
 - 🌱 Currently learning: Full-stack development and modern web technologies  
 - 👯 Looking to collaborate on: Open-source projects and innovative web applications   
-- 📫 How to reach me: **agarwalladisha02@gmail.com**  
 - ⚡ Fun fact: I love continuous learning and exploring new technologies!  
 
 ---
