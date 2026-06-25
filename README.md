@@ -1,34 +1,84 @@
-<h1 align="center">✨ Disha Agarwalla ✨</h1>  
-<h3 align="center">Full-Stack Developer | AI & Backend Developer</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F71999&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" />
-</p>
-<p align="center">
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/disha-agarwalla-10884b31b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=200&section=header&text=DISHA%20AGARWALLA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20and%20%20Backend%20%20Developer%20&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-  <a href="https://github.com/DishaAgarwalla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
+</div>
 
-  <a href="mailto:dishaagarwalla260@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
+<div align="center">
 
-  <a href="https://dishastudio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Disha_Studio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+real-world+applications+🚀;Full-Stack+Developer+💻;+Artificial+Intelligence+🤖;;Open+to+Collaboration+and+Innovation+✨)](https://git.io/typing-svg)
 
-</p>
+</div>
 
+---
 
-## 🚀 About Me
-- 🔭 Currently working on: Building my development skills and creating meaningful projects  
-- 🌱 Currently learning: Full-stack development and modern web technologies  
-- 👯 Looking to collaborate on: Open-source projects and innovative web applications   
-- ⚡ Fun fact: I love continuous learning and exploring new technologies!  
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║      React • Spring Boot • Node.js • AWS           ║
+║      MongoDB • MySQL • AI • Problem Solving         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+# ⚡ About Me
+
+```yaml
+name:       Disha Agarwalla
+role:       Full-Stack Developer
+location:   Bhubaneswar, India 🇮🇳
+
+currently:
+  learning:
+    - AWS Cloud
+    - System Design
+    - Artificial Intelligence
+
+  working_on:
+    - Full Stack Applications
+    - AI Powered Projects
+    - Open Source Contributions
+
+```
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 Web Development
+
+- Responsive Web Applications
+- REST APIs
+- Authentication Systems
+- Dashboard & Admin Panels
+- Modern UI/UX Design
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Emerging Tech
+
+- AI Chatbots
+- Machine Learning Projects
+- Data Analysis Applications
+- AI Integration in Web Apps
+- Automation Solutions
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
@@ -85,23 +135,55 @@
 ---
 
 
-## 🌱 My Development Journey
+---
 
-> *"The only way to do great work is to love what you do." – Steve Jobs*
+# 📊 GitHub Analytics
 
-I'm on an exciting journey to become a skilled full-stack developer. Every day brings new challenges and learning opportunities. I believe in building projects that solve real-world problems and constantly pushing my boundaries.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAgarwalla&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAgarwalla&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+# 🤝 Connect With Me
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, and discuss tech ideas. Whether you have a project idea, need help with something, or just want to chat about technology, feel free to reach out!
-
-⭐ *Star my repositories if you find them helpful!*
-
----
-
-
-<p align="center">
-  <b>Thanks for visiting my profile! Have a great day! 😊</b>
 </p>
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/disha-agarwalla-10884b31b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+
+  <a href="https://github.com/DishaAgarwalla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+
+  <a href="mailto:dishaagarwalla260@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+
+  <a href="https://dishastudio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Disha_Studio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+
+</p>
+
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2575fc,100:6a11cb&height=120&section=footer&text=Let's+Build+Something+Amazing&fontSize=24&fontColor=ffffff"/>
+
+</div>
