@@ -136,23 +136,22 @@ currently:
 
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAgarwalla&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAgarwalla&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAgarwalla&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAgarwalla&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🤝 Connect With Me
