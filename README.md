@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=200&section=header&text=DISHA%20AGARWALLA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20and%20%20Backend%20%20Developer%20&descAlignY=58&descSize=18&animation=fadeIn"/>
 
