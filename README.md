@@ -39,8 +39,7 @@ currently:
     - Artificial Intelligence
 
   working_on:
-    - Full Stack Applications
-    - AI Powered Projects
+    - AI powered Full Stack Projects
     - Open Source Contributions
 
 ```
