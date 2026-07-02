@@ -149,7 +149,6 @@ currently:
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAgarwalla&theme=tokyo-night&hide_border=true"/>
 
 </div>
----
 
 # 🤝 Connect With Me
 
