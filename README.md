@@ -138,7 +138,7 @@ currently:
 
 <div align="center">
 
-<img width="47%" src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
 
 </div>
 <br>
