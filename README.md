@@ -139,13 +139,6 @@ currently:
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=DishaAgarwalla&theme=tokyonight&hide_border=true"/>
-
-</div>
-<br>
-
-<div align="center">
-
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAgarwalla&theme=tokyo-night&hide_border=true"/>
 
 </div>
